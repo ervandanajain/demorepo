@@ -1,0 +1,5 @@
+com\opencart\qa\pages\LoginPage.class
+com\opencart\qa\pages\RegisterPage.class
+com\opencart\qa\util\TestUtil.class
+com\opencart\qa\pages\HomePage.class
+com\opencart\qa\base\TestBase.class
